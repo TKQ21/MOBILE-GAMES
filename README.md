@@ -24,7 +24,7 @@ Brain training concept
 
 A fun and interactive match-3 puzzle game inspired by Candy Crush. Match similar candies, score points, and enjoy smooth animations with colorful UI.
 
-🔗 - https://appsgeyser.io/19698585/CANDY MATCH
+🔗 - https://appsgeyser.io/19698585/CANDYMATCH
 
 🎮 Features
 Match-3 gameplay (horizontal & vertical matching)
