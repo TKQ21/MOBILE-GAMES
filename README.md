@@ -28,13 +28,15 @@ A fun and interactive match-3 puzzle game inspired by Candy Crush. Match similar
 
 🎮 Features
 Match-3 gameplay (horizontal & vertical matching)
+
+200 LEVELS LOCKED 
+
 Score system
+
 Smooth animations
+
 Colorful candy UI 🍭
+
 Responsive design (works on desktop & mobile)
+
 Restart / Reset game option
-🛠️ Tech Stack
-HTML
-CSS
-JavaScript
-(ya agar tumne React / Unity / Python use kiya hai toh yahan change kar lena)
