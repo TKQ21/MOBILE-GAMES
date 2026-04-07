@@ -7,7 +7,7 @@ Player speed + obstacle collision logic
 
 Focus on reflex & control mechanics
 
-🔗- http://www.appsgeyser.com/19500276?
+🔗- https://appsgeyser.io/19711072/3d-RUNNER-GAME
 
 
 🧠 Word Connect – Explanation
