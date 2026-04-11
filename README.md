@@ -8,6 +8,7 @@ Player speed + obstacle collision logic
 Focus on reflex & control mechanics
 
 🔗- https://appsgeyser.io/19711072/3d-RUNNER-GAME
+
 live: https://d-endless-runner.lovable.app
 
 
@@ -26,6 +27,7 @@ Brain training concept
 A fun and interactive match-3 puzzle game inspired by Candy Crush. Match similar candies, score points, and enjoy smooth animations with colorful UI.
 
 🔗 - https://appsgeyser.io/19698585/CANDY-MATCH
+
 live: https://candy-match.lovable.app
 
 🎮 Features
